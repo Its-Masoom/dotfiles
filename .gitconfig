@@ -1,0 +1,8 @@
+[user]
+	email = 2019ee43@student.uet.edu.pk
+	name = Its-Masoom
+
+[alias]
+	graph = log --all --graph --decorate --oneline
+[core]
+	excludesfile = /home/user72/.gitignore_global
